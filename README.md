@@ -1,1 +1,1 @@
-# BS-DS-AI-Orientation-Cohort-1
+# BS DS & AI Orientation Cohort-1
